@@ -1,8 +1,7 @@
 # Tesla Roadster Landing Page
 ## Third single-page project
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/0187a675-95bb-403e-96ef-0dec37f12e79)
 
 This project is a landing page designed for the Tesla Roadster. It features a sleek, modern design that showcases the car's cutting-edge features and performance.
 
